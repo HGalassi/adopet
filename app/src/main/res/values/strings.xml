@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AdoPet</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="random_button_text">Descubra</string>
+    <string name="previous">Voltar</string>
+
+    <string name="hello_first_fragment">0</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="toast_button_text">Aperta aqui</string>
+    <string name="count_button_text">Sera um botao?</string>
+    <string name="first_fragment_toast_form_on_error">Preenche o email direito vei</string>
+    <string name="first_fragment_toast_form_on_success">Aqui vamos nos =)</string>
+    <string name="random_heading">Header 2 fragmento</string>
+    <string name="textview_random"> R </string>
+    <string name="textview_name_hint">Nome</string>
+    <string name="textview_age_hint">Idade</string>
+    <string name="textview_email_hint">E-mail</string>
+    <string name="textview_gender_hint">Sexo</string>
+    <string name="textview_has_other_animal_label">Ja possui um Pet?</string>
+    <string name="textview_born_date_hint">Data de Nascimento</string>
+
+</resources>

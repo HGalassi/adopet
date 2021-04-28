@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ConstraintLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/screenBackground"
+    tools:context=".FirstFragment">
+
+    <Button
+        android:id="@+id/random_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="24dp"
+        android:layout_marginRight="24dp"
+        android:layout_marginBottom="24dp"
+        android:background="@color/buttonBackground"
+        android:fontFamily="sans-serif-smallcaps"
+        android:text="@string/random_button_text"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/count_button" />
+
+    <Button
+        android:id="@+id/toast_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:layout_marginLeft="24dp"
+        android:layout_marginBottom="36dp"
+        android:background="@color/buttonBackground"
+        android:fontFamily="sans-serif-smallcaps"
+        android:text="@string/toast_button_text"
+        android:textSize="10sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/count_button"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/count_button"
+        android:layout_width="105dp"
+        android:layout_height="95dp"
+        android:layout_marginStart="51dp"
+        android:layout_marginLeft="51dp"
+        android:layout_marginEnd="51dp"
+        android:layout_marginRight="51dp"
+        android:layout_marginBottom="16dp"
+        android:background="@color/buttonBackground"
+        android:fontFamily="sans-serif-smallcaps"
+        android:text="@string/count_button_text"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/random_button"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toEndOf="@+id/toast_button" />
+
+    <EditText
+        android:id="@+id/textview_person_name"
+        android:layout_width="364dp"
+        android:layout_height="70dp"
+        android:layout_marginTop="40dp"
+        android:textSize="24sp"
+        android:hint="@string/textview_name_hint"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/textview_email"
+        android:layout_width="364dp"
+        android:layout_height="70dp"
+        android:layout_marginTop="24dp"
+        android:textSize="24sp"
+        android:hint="@string/textview_email_hint"
+        android:inputType="textEmailAddress"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textview_born_date" />
+
+    <Spinner
+        android:id="@+id/spinner_gender"
+        android:layout_width="364dp"
+        android:layout_height="43dp"
+        android:layout_marginTop="24dp"
+        android:hint="@string/textview_gender_hint"
+        android:textColor="#ffffff"
+        android:textSize="24sp"
+        android:popupTheme="@color/white"
+        android:spinnerMode="dropdown"
+        android:tooltipText="@string/textview_gender_hint"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textview_email" />
+
+    <Spinner
+        android:id="@+id/spinner_has_other_animals"
+        android:textColor="#ffffff"
+        android:textSize="24sp"
+        android:layout_width="105dp"
+        android:layout_height="29dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginRight="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/spinner_gender" />
+
+    <TextView
+        android:id="@+id/textview_has_other_animals"
+        android:layout_width="209dp"
+        android:layout_height="24dp"
+        android:layout_marginTop="24dp"
+        android:text="@string/textview_has_other_animal_label"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toStartOf="@+id/spinner_has_other_animals"
+        app:layout_constraintHorizontal_bias="0.311"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/spinner_gender" />
+
+    <EditText
+        android:id="@+id/textview_born_date"
+        android:layout_width="364dp"
+        android:layout_height="70dp"
+        android:layout_marginTop="24dp"
+        android:hint="@string/textview_born_date_hint"
+        android:textSize="24sp"
+        android:inputType="date"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.477"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textview_person_name" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
