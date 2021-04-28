@@ -1,0 +1,205 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/heitgal/Documentos/adopet/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/heitgal/Documentos/adopet/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/heitgal/Documentos/adopet/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/heitgal/Documentos/adopet/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.2.2] /home/heitgal/.gradle/caches/transforms-2/files-2.1/68a4db5f5e202963b209eab9af583326/navigation-fragment-ktx-2.2.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /home/heitgal/.gradle/caches/transforms-2/files-2.1/8120b43563004a63cd7fbb9149f228e3/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.2.2] /home/heitgal/.gradle/caches/transforms-2/files-2.1/d4d005992cbde57fa9a8c72d55f05db2/navigation-ui-ktx-2.2.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.2.2] /home/heitgal/.gradle/caches/transforms-2/files-2.1/dc9215acaf063740eaea237f821492c3/navigation-runtime-ktx-2.2.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/c6e40bdcd9dd9138221e7fa57be6abd9/jetified-activity-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.2.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/bc970dfa5566afc2b84c63358b294525/jetified-core-ktx-1.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/73ad9d71d528a2d58a73cadde4f5272c/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.2.2] /home/heitgal/.gradle/caches/transforms-2/files-2.1/7aeafd75ee038aa01e686635533dee92/navigation-common-ktx-2.2.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/2c0f7fd5f7afcde40977316727a3d62d/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/1beb3b8e735853e6e17b7b7809b97f89/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.2.2] /home/heitgal/.gradle/caches/transforms-2/files-2.1/f2bd8e67b1b7c9abdf0b1ff37104252a/navigation-ui-2.2.2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.1.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/80fe0980f72e95db51e5709eb67debbd/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/9cb34e1942b74af296a28b74e2e271af/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/heitgal/.gradle/caches/transforms-2/files-2.1/d93281631f1fa9b06912e36f615e944f/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/dfa2c724108ad9cb7f172ae3a9dc0892/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/33ebf1d5ef72a8169c77e3fefb12d4b1/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/8afacb273bfab0d6d8da48f1d1b65979/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/45768567ceaaa980428fa6e0351b1871/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/29c5fdcad724312db305c3dd63c55101/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/0b4e58892d0e1781e8d13542b1379c79/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/a8d45c6ccbd5a4522e047d4b3dec0248/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/a19ab5716bc145d6cc318c064dc0e956/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.2.2] /home/heitgal/.gradle/caches/transforms-2/files-2.1/e9b8a78a92e7ba77129bd9420c9038fe/navigation-fragment-2.2.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.4] /home/heitgal/.gradle/caches/transforms-2/files-2.1/27a55fdde08c3ef40d1b774502fff351/fragment-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/cbb79b44aca99d32c09929b3e197f408/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/768e5e920ff4227b373d2b1e5e7a52b6/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/ec18d8b097ebdc420425ed1aeb29b584/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.2.2] /home/heitgal/.gradle/caches/transforms-2/files-2.1/ddf8d7aebb7f45c1cf8f23769164186e/navigation-runtime-2.2.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.1.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/79d40a26b9bda44c2b945fceb300002a/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.2.2] /home/heitgal/.gradle/caches/transforms-2/files-2.1/6dc39b09f41a45408aaa752601da16d8/navigation-common-2.2.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.2.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/846548a6e2c7617539a7f272e7223850/core-1.2.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/697c00de369258ffba0e1e15fbedd271/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/83a3754fa97fe7fc7233596fda72dee7/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/ce5b3ddafa880dae016ebbcb1f3f2d00/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/db82debc5fbb9fa04ae714f7a3bd8d59/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/2d73206c919834aaa37a54248957b01e/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/7ee6452cb6a7ee9914af6951de268b42/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/a67e1928fc800b2903d2aaa28e3c1eb1/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/6ba1856147042fb7bd29d1aa19e904cb/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/79d0301e5487ea087d16005a9431f8e7/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/e1ee87c33ea0440815ecb81ab90ded12/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/f52f311ba87f6391cea5e2e1c9966ea9/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/heitgal/Documentos/adopet/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/heitgal/Documentos/adopet/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/heitgal/Documentos/adopet/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /home/heitgal/Documentos/adopet/app/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /home/heitgal/Documentos/adopet/app/src/main/AndroidManifest.xml
+		INJECTED from /home/heitgal/Documentos/adopet/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/heitgal/Documentos/adopet/app/src/main/AndroidManifest.xml
+		ADDED from /home/heitgal/Documentos/adopet/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/heitgal/Documentos/adopet/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/heitgal/Documentos/adopet/app/src/main/AndroidManifest.xml
+		ADDED from /home/heitgal/Documentos/adopet/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/heitgal/Documentos/adopet/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/heitgal/Documentos/adopet/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/heitgal/Documentos/adopet/app/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [com.google.android.material:material:1.1.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/80fe0980f72e95db51e5709eb67debbd/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/80fe0980f72e95db51e5709eb67debbd/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/heitgal/.gradle/caches/transforms-2/files-2.1/d93281631f1fa9b06912e36f615e944f/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/heitgal/.gradle/caches/transforms-2/files-2.1/d93281631f1fa9b06912e36f615e944f/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.2.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/846548a6e2c7617539a7f272e7223850/core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/846548a6e2c7617539a7f272e7223850/core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/ce5b3ddafa880dae016ebbcb1f3f2d00/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/ce5b3ddafa880dae016ebbcb1f3f2d00/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/846548a6e2c7617539a7f272e7223850/core-1.2.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/heitgal/Documentos/adopet/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/heitgal/Documentos/adopet/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/heitgal/Documentos/adopet/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/heitgal/Documentos/adopet/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/heitgal/Documentos/adopet/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/heitgal/Documentos/adopet/app/src/main/AndroidManifest.xml:11:9-44
+activity#com.example.adopet.MainActivity
+ADDED from /home/heitgal/Documentos/adopet/app/src/main/AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from /home/heitgal/Documentos/adopet/app/src/main/AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from /home/heitgal/Documentos/adopet/app/src/main/AndroidManifest.xml:15:13-60
+	android:name
+		ADDED from /home/heitgal/Documentos/adopet/app/src/main/AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/heitgal/Documentos/adopet/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/heitgal/Documentos/adopet/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/heitgal/Documentos/adopet/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/heitgal/Documentos/adopet/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/heitgal/Documentos/adopet/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /home/heitgal/Documentos/adopet/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/heitgal/Documentos/adopet/app/src/main/AndroidManifest.xml
+INJECTED from /home/heitgal/Documentos/adopet/app/src/main/AndroidManifest.xml
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.2.2] /home/heitgal/.gradle/caches/transforms-2/files-2.1/68a4db5f5e202963b209eab9af583326/navigation-fragment-ktx-2.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.2.2] /home/heitgal/.gradle/caches/transforms-2/files-2.1/68a4db5f5e202963b209eab9af583326/navigation-fragment-ktx-2.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /home/heitgal/.gradle/caches/transforms-2/files-2.1/8120b43563004a63cd7fbb9149f228e3/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /home/heitgal/.gradle/caches/transforms-2/files-2.1/8120b43563004a63cd7fbb9149f228e3/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.2.2] /home/heitgal/.gradle/caches/transforms-2/files-2.1/d4d005992cbde57fa9a8c72d55f05db2/navigation-ui-ktx-2.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.2.2] /home/heitgal/.gradle/caches/transforms-2/files-2.1/d4d005992cbde57fa9a8c72d55f05db2/navigation-ui-ktx-2.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.2.2] /home/heitgal/.gradle/caches/transforms-2/files-2.1/dc9215acaf063740eaea237f821492c3/navigation-runtime-ktx-2.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.2.2] /home/heitgal/.gradle/caches/transforms-2/files-2.1/dc9215acaf063740eaea237f821492c3/navigation-runtime-ktx-2.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/c6e40bdcd9dd9138221e7fa57be6abd9/jetified-activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/c6e40bdcd9dd9138221e7fa57be6abd9/jetified-activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.2.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/bc970dfa5566afc2b84c63358b294525/jetified-core-ktx-1.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.2.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/bc970dfa5566afc2b84c63358b294525/jetified-core-ktx-1.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/73ad9d71d528a2d58a73cadde4f5272c/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/73ad9d71d528a2d58a73cadde4f5272c/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.2.2] /home/heitgal/.gradle/caches/transforms-2/files-2.1/7aeafd75ee038aa01e686635533dee92/navigation-common-ktx-2.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.2.2] /home/heitgal/.gradle/caches/transforms-2/files-2.1/7aeafd75ee038aa01e686635533dee92/navigation-common-ktx-2.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/2c0f7fd5f7afcde40977316727a3d62d/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/2c0f7fd5f7afcde40977316727a3d62d/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/1beb3b8e735853e6e17b7b7809b97f89/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/1beb3b8e735853e6e17b7b7809b97f89/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.2.2] /home/heitgal/.gradle/caches/transforms-2/files-2.1/f2bd8e67b1b7c9abdf0b1ff37104252a/navigation-ui-2.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.2.2] /home/heitgal/.gradle/caches/transforms-2/files-2.1/f2bd8e67b1b7c9abdf0b1ff37104252a/navigation-ui-2.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.1.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/80fe0980f72e95db51e5709eb67debbd/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/80fe0980f72e95db51e5709eb67debbd/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/9cb34e1942b74af296a28b74e2e271af/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/9cb34e1942b74af296a28b74e2e271af/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/heitgal/.gradle/caches/transforms-2/files-2.1/d93281631f1fa9b06912e36f615e944f/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/heitgal/.gradle/caches/transforms-2/files-2.1/d93281631f1fa9b06912e36f615e944f/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/dfa2c724108ad9cb7f172ae3a9dc0892/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/dfa2c724108ad9cb7f172ae3a9dc0892/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/33ebf1d5ef72a8169c77e3fefb12d4b1/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/33ebf1d5ef72a8169c77e3fefb12d4b1/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/8afacb273bfab0d6d8da48f1d1b65979/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/8afacb273bfab0d6d8da48f1d1b65979/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/45768567ceaaa980428fa6e0351b1871/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/45768567ceaaa980428fa6e0351b1871/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/29c5fdcad724312db305c3dd63c55101/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/29c5fdcad724312db305c3dd63c55101/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/0b4e58892d0e1781e8d13542b1379c79/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/0b4e58892d0e1781e8d13542b1379c79/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/a8d45c6ccbd5a4522e047d4b3dec0248/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/a8d45c6ccbd5a4522e047d4b3dec0248/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/a19ab5716bc145d6cc318c064dc0e956/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/a19ab5716bc145d6cc318c064dc0e956/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.2.2] /home/heitgal/.gradle/caches/transforms-2/files-2.1/e9b8a78a92e7ba77129bd9420c9038fe/navigation-fragment-2.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.2.2] /home/heitgal/.gradle/caches/transforms-2/files-2.1/e9b8a78a92e7ba77129bd9420c9038fe/navigation-fragment-2.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] /home/heitgal/.gradle/caches/transforms-2/files-2.1/27a55fdde08c3ef40d1b774502fff351/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] /home/heitgal/.gradle/caches/transforms-2/files-2.1/27a55fdde08c3ef40d1b774502fff351/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/cbb79b44aca99d32c09929b3e197f408/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/cbb79b44aca99d32c09929b3e197f408/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/768e5e920ff4227b373d2b1e5e7a52b6/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/768e5e920ff4227b373d2b1e5e7a52b6/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/ec18d8b097ebdc420425ed1aeb29b584/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/ec18d8b097ebdc420425ed1aeb29b584/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.2.2] /home/heitgal/.gradle/caches/transforms-2/files-2.1/ddf8d7aebb7f45c1cf8f23769164186e/navigation-runtime-2.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.2.2] /home/heitgal/.gradle/caches/transforms-2/files-2.1/ddf8d7aebb7f45c1cf8f23769164186e/navigation-runtime-2.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/79d40a26b9bda44c2b945fceb300002a/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/79d40a26b9bda44c2b945fceb300002a/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.2.2] /home/heitgal/.gradle/caches/transforms-2/files-2.1/6dc39b09f41a45408aaa752601da16d8/navigation-common-2.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.2.2] /home/heitgal/.gradle/caches/transforms-2/files-2.1/6dc39b09f41a45408aaa752601da16d8/navigation-common-2.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/846548a6e2c7617539a7f272e7223850/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/846548a6e2c7617539a7f272e7223850/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/697c00de369258ffba0e1e15fbedd271/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/697c00de369258ffba0e1e15fbedd271/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/83a3754fa97fe7fc7233596fda72dee7/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/83a3754fa97fe7fc7233596fda72dee7/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/ce5b3ddafa880dae016ebbcb1f3f2d00/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/ce5b3ddafa880dae016ebbcb1f3f2d00/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/db82debc5fbb9fa04ae714f7a3bd8d59/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/db82debc5fbb9fa04ae714f7a3bd8d59/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/2d73206c919834aaa37a54248957b01e/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/2d73206c919834aaa37a54248957b01e/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/7ee6452cb6a7ee9914af6951de268b42/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/7ee6452cb6a7ee9914af6951de268b42/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/a67e1928fc800b2903d2aaa28e3c1eb1/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/a67e1928fc800b2903d2aaa28e3c1eb1/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/6ba1856147042fb7bd29d1aa19e904cb/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/6ba1856147042fb7bd29d1aa19e904cb/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/79d0301e5487ea087d16005a9431f8e7/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/79d0301e5487ea087d16005a9431f8e7/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/e1ee87c33ea0440815ecb81ab90ded12/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/e1ee87c33ea0440815ecb81ab90ded12/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/f52f311ba87f6391cea5e2e1c9966ea9/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/heitgal/.gradle/caches/transforms-2/files-2.1/f52f311ba87f6391cea5e2e1c9966ea9/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/heitgal/Documentos/adopet/app/src/main/AndroidManifest.xml
+INJECTED from /home/heitgal/Documentos/adopet/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/heitgal/Documentos/adopet/app/src/main/AndroidManifest.xml
+		ADDED from /home/heitgal/Documentos/adopet/app/src/main/AndroidManifest.xml
+		INJECTED from /home/heitgal/Documentos/adopet/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/heitgal/Documentos/adopet/app/src/main/AndroidManifest.xml
+		ADDED from /home/heitgal/Documentos/adopet/app/src/main/AndroidManifest.xml
+		INJECTED from /home/heitgal/Documentos/adopet/app/src/main/AndroidManifest.xml

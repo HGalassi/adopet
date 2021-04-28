@@ -1,0 +1,4 @@
+#Wed Apr 28 13:05:52 EDT 2021
+base.0=/home/heitgal/Documentos/adopet/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
